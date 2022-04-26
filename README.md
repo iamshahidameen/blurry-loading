@@ -6,8 +6,9 @@
 
 # Blurry Loading
 
-Bullry Loading effect with website load completion. 
+Bullry Loading effect with website load completion.
 
+Project Demo: [https://blurry-loading-by-shahid.netlify.app](https://blurry-loading-by-shahid.netlify.app)
 
 ## Hi, I'm Shahid! 👋
 
@@ -44,7 +45,6 @@ I’m a perfectionist to the smallest pixel and I always take care of responsive
 
 ## Credits
 
-- [Brad Traversy](https://github.com/bradtraversy)
 - [50 Projects 50 Days](https://50projects50days.com)
 
 ## Questions?
